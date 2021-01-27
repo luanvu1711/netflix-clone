@@ -1,2 +1,2 @@
 A Netflix clone with TMDB API 
-https://lucid-saha-a23f92.netlify.app/
+https://netflix-clone-222.netlify.app/
